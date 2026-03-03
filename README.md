@@ -26,7 +26,7 @@ I focus on building scalable, high-performance backend architecture
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
-* **Email:** [yourname@email.com](mailto:eratulegen99@gmail.com)
+* **LinkedIn:** [linkedIN](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
+* **Email:** [EMAIL](mailto:eratulegen99@gmail.com)
 
 *"A true warrior needs no sword."* — **Thors Snorresson**
