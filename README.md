@@ -18,9 +18,11 @@ I focus on building scalable, high-performance backend architecture
 
 ### 📊 Performance & Contributions
 
+![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aqyn97&theme=github-compact&hide_border=true&area=true)
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&hide_border=true" alt="Overall Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aqyn97&show_icons=true&theme=transparent&hide_border=true" alt="Overall Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqyn97&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
