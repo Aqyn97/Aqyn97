@@ -29,4 +29,4 @@ I focus on building scalable, high-performance backend architecture
 * **LinkedIn:** [linkedIN](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
 * **Email:** [EMAIL](mailto:eratulegen99@gmail.com)
 
-*"A true warrior needs no sword."* — **Thors Snorresson**
+"A person excels others through their mind, science, honor, and character" — Abay
