@@ -20,10 +20,6 @@ I focus on building scalable, high-performance backend architecture
 
 ![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aqyn97&theme=github-compact&hide_border=true&area=true)
 
-### 📊 Performance & Contributions
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Aqyn97&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqyn97&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
