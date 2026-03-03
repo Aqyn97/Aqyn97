@@ -5,6 +5,8 @@ I focus on building scalable, high-performance backend architecture
 
 
 <h3 align="left">Connect with me:</h3>
+* **LinkedIn:** [linkedIN](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
+* **Email:** [EMAIL](mailto:eratulegen99@gmail.com)
 <p align="left">
 </p>
 
@@ -23,8 +25,5 @@ I focus on building scalable, high-performance backend architecture
 
 
 
-### 📫 Let's Connect
-* **LinkedIn:** [linkedIN](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
-* **Email:** [EMAIL](mailto:eratulegen99@gmail.com)
 
 "A person excels others through their mind, science, honor, and character" — Abay
