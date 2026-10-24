@@ -1,81 +1,103 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3FA7D6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yerassyl+Tlegen;Backend+Developer+in+the+making;Java+%E2%80%A2+Spring+%E2%80%A2+SQL" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aqyn97&label=Profile%20views&color=3fa7d6&style=flat" alt="Profile views" />
-</p>
+# Yerassyl Tulegen
+
+### Software Engineer · Backend Systems · Applied AI
+
+<sub>Building reliable software. Exploring how AI makes products more useful.</sub>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aqyn97-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Aqyn97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3FA7D6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
+[![Email](https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail&logoColor=white)](mailto:eratulegen99@gmail.com)
+
+</div>
 
 ---
 
-### About me
+### `01 / whoami`
 
 ```yaml
-name:       Yerassyl Tulegen
-alias:      TL
-role:       Backend Developer
-focus:      Clean code, solid fundamentals
-learning:   Spring Boot, System Design
-mindset:    'Understand why,not just how'
+name:        Yerassyl Tulegen
+alias:       TL
+location:    Kazakhstan
+direction:   Software Engineering + Applied AI
+foundation:  Backend development, APIs, databases
+exploring:   LLM integration, AI applications, system design
+principle:   "Understand why, not only how."
+```
+
+I build and study backend systems, with a growing focus on integrating AI into useful web products. My foundation is **Java, Spring Boot, REST APIs, and databases**. I am also developing my skills in **Python and applied AI**.
+
+My goal: engineer software that is reliable, understandable, and genuinely useful.
+
+---
+
+### `02 / selected engineering work`
+
+| Project | What it is | Status |
+|:--|:--|:--|
+| [**TIR · Take It Right**](https://github.com/Aqyn97/TIR-take-it-right) | University course-selection backend using Java, Spring Boot, and PostgreSQL | In progress |
+| [**UniShare**](https://github.com/Aqyn97/UniShare) | Campus rental marketplace with a booking workflow | Portfolio project |
+| [**TournamentHub API**](https://github.com/Aqyn97/TournamentHub-API) | Tournament-management REST API using Python and FastAPI | Academic project |
+
+<sub>Project details and implementation status are documented in their repositories.</sub>
+
+---
+
+### `03 / applied AI product ideas`
+
+These are product concepts I plan to develop. They are **not presented as completed applications**.
+
+| Concept | Direction |
+|:--|:--|
+| **ShapShan AI** | Turn long material into clear, actionable summaries |
+| **Belsen AI** | An AI-focused product concept under exploration |
+| **Perfecto** | Analyze everyday problems using ideas from books, history, and experts |
+
+My focus is on the engineering behind AI products: **backend APIs, data flow, retrieval, evaluation, and reliability**.
+
+---
+
+### `04 / engineering toolkit`
+
+**Backend foundation**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Development environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-161B22?style=flat-square&logo=intellijidea&logoColor=white)
+
+**Currently studying and experimenting with**
+
+`Spring internals` · `System design` · `Testing` · `LLM APIs` · `RAG` · `AI evaluation`
+
+---
+
+### `05 / engineering principles`
+
+```text
+01  Understand the problem before choosing technology.
+02  Design clear APIs and predictable data flows.
+03  Test behavior, not assumptions.
+04  Treat AI output as something to evaluate, not blindly trust.
+05  Build, measure, document, improve.
 ```
 
 ---
 
-### Tech Stack
+<div align="center">
 
-**Core**
+<sub>"A person excels others through their mind, science, honor, and character."</sub>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<sub>Abay</sub>
 
-**Environment & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-**Currently learning**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aqyn97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqyn97&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqyn97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aqyn97&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### Reach me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yerassyl-tulegen-78757034a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eratulegen99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"A person excels others through their mind, science, honor, and character."</i><br>
-  — <b>Abay</b>
-</p>
+</div>
