@@ -1,103 +1,111 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/TL%20%2F%20ENGINEERING%20PROFILE-FF7A18?style=for-the-badge&labelColor=FF7A18&color=FF7A18" alt="TL engineering profile" />
+
 # Yerassyl Tulegen
 
-### Software Engineer · Backend Systems · Applied AI
+### `SOFTWARE ENGINEER / APPLIED AI`
 
-<sub>Building reliable software. Exploring how AI makes products more useful.</sub>
+**Understand the system. Engineer the solution.**
 
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aqyn97-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Aqyn97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3FA7D6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
-[![Email](https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail&logoColor=white)](mailto:eratulegen99@gmail.com)
+<img src="https://img.shields.io/badge/BACKEND%20SYSTEMS-FF7A18?style=flat-square&logo=serverfault&logoColor=white" alt="Backend systems" />
+<img src="https://img.shields.io/badge/APPLIED%20AI-FF7A18?style=flat-square&logo=python&logoColor=white" alt="Applied AI" />
+<img src="https://img.shields.io/badge/KAZAKHSTAN-24292F?style=flat-square&logoColor=white" alt="Kazakhstan" />
 
 </div>
 
 ---
 
-### `01 / whoami`
+### 🟠 `01 / WHO AM I`
 
 ```yaml
 name:        Yerassyl Tulegen
 alias:       TL
+field:       Software Engineering
+focus:       Backend Systems + Applied AI
 location:    Kazakhstan
-direction:   Software Engineering + Applied AI
-foundation:  Backend development, APIs, databases
-exploring:   LLM integration, AI applications, system design
 principle:   "Understand why, not only how."
 ```
 
-I build and study backend systems, with a growing focus on integrating AI into useful web products. My foundation is **Java, Spring Boot, REST APIs, and databases**. I am also developing my skills in **Python and applied AI**.
-
-My goal: engineer software that is reliable, understandable, and genuinely useful.
+I am a software engineering student focused on **backend systems** and **applied artificial intelligence**. I care about clear architecture, dependable behavior, and software built around real problems.
 
 ---
 
-### `02 / selected engineering work`
+### 🟠 `02 / ENGINEERING BLUEPRINT`
 
-| Project | What it is | Status |
-|:--|:--|:--|
-| [**TIR · Take It Right**](https://github.com/Aqyn97/TIR-take-it-right) | University course-selection backend using Java, Spring Boot, and PostgreSQL | In progress |
-| [**UniShare**](https://github.com/Aqyn97/UniShare) | Campus rental marketplace with a booking workflow | Portfolio project |
-| [**TournamentHub API**](https://github.com/Aqyn97/TournamentHub-API) | Tournament-management REST API using Python and FastAPI | Academic project |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>Project details and implementation status are documented in their repositories.</sub>
+**`< BACKEND SYSTEMS />`**
 
----
+Build reliable services, clear APIs, and well-structured data flows.
 
-### `03 / applied AI product ideas`
+![Java](https://img.shields.io/badge/Java-FF7A18?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-252B33?style=flat-square&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-252B33?style=flat-square&logo=postgresql&logoColor=white)
 
-These are product concepts I plan to develop. They are **not presented as completed applications**.
+</td>
+<td width="50%" valign="top">
 
-| Concept | Direction |
-|:--|:--|
-| **ShapShan AI** | Turn long material into clear, actionable summaries |
-| **Belsen AI** | An AI-focused product concept under exploration |
-| **Perfecto** | Analyze everyday problems using ideas from books, history, and experts |
+**`< APPLIED AI />`**
 
-My focus is on the engineering behind AI products: **backend APIs, data flow, retrieval, evaluation, and reliability**.
+Integrate intelligent capabilities into practical software systems.
 
----
+![Python](https://img.shields.io/badge/Python-FF7A18?style=flat-square&logo=python&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-252B33?style=flat-square&logoColor=white)
+![Data](https://img.shields.io/badge/Data-252B33?style=flat-square&logoColor=white)
 
-### `04 / engineering toolkit`
+</td>
+</tr>
+</table>
 
-**Backend foundation**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**`ENGINEERING APPROACH`**
 
-**Development environment**
+![Understand](https://img.shields.io/badge/01-UNDERSTAND-FF7A18?style=flat-square&labelColor=252B33)
+![Design](https://img.shields.io/badge/02-DESIGN-FF7A18?style=flat-square&labelColor=252B33)
+![Build](https://img.shields.io/badge/03-BUILD-FF7A18?style=flat-square&labelColor=252B33)
+![Verify](https://img.shields.io/badge/04-VERIFY-FF7A18?style=flat-square&labelColor=252B33)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-161B22?style=flat-square&logo=intellijidea&logoColor=white)
-
-**Currently studying and experimenting with**
-
-`Spring internals` · `System design` · `Testing` · `LLM APIs` · `RAG` · `AI evaluation`
+</div>
 
 ---
 
-### `05 / engineering principles`
+### 🟠 `03 / TOOLS & FOUNDATIONS`
 
-```text
-01  Understand the problem before choosing technology.
-02  Design clear APIs and predictable data flows.
-03  Test behavior, not assumptions.
-04  Treat AI output as something to evaluate, not blindly trust.
-05  Build, measure, document, improve.
-```
+**Languages & frameworks**
+
+![Java](https://img.shields.io/badge/Java-FF7A18?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-252B33?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF7A18?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-252B33?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-252B33?style=flat-square&logo=mysql&logoColor=white)
+
+**Engineering workflow**
+
+![Git](https://img.shields.io/badge/Git-FF7A18?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-252B33?style=flat-square&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-252B33?style=flat-square&logo=intellijidea&logoColor=white)
+
+**Fundamentals**
+
+`OOP` · `Data Structures` · `REST APIs` · `Database Design` · `System Design`
+
+---
+
+### 🟠 `04 / CONNECT`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7A18?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerassyl-tulegen-78757034a/)
+[![Email](https://img.shields.io/badge/Email-252B33?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eratulegen99@gmail.com)
 
 ---
 
 <div align="center">
 
-<sub>"A person excels others through their mind, science, honor, and character."</sub>
+*“A person excels others through their mind, science, honor, and character.”*
 
-<sub>Abay</sub>
+**Abay**
 
 </div>
