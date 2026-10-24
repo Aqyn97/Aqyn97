@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/tl-banner.svg" alt="Yerassyl Tulegen | Software Engineer / Applied AI" width="100%" />
+<img src="tl-banner.svg" alt="Yerassyl Tulegen | Software Engineer / Applied AI" width="100%" />
 
 <br/>
 
