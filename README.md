@@ -3,7 +3,7 @@
 
 # Yerassyl Tulegen
 
-**Software Engineer | Applied AI**
+**Backend Developer**
 
 Backend engineering, software architecture, and intelligent applications.
 
